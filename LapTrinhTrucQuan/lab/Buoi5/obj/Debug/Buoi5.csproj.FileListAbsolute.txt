@@ -1,0 +1,118 @@
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Labs\Lab4 (Hoàn thành ít nhất 2 bài)- Bài tập kết nối xử lý CSDL\Buoi5\Buoi5\bin\Debug\Buoi5.exe.config
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Labs\Lab4 (Hoàn thành ít nhất 2 bài)- Bài tập kết nối xử lý CSDL\Buoi5\Buoi5\bin\Debug\Buoi5.exe
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Labs\Lab4 (Hoàn thành ít nhất 2 bài)- Bài tập kết nối xử lý CSDL\Buoi5\Buoi5\bin\Debug\Buoi5.pdb
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Labs\Lab4 (Hoàn thành ít nhất 2 bài)- Bài tập kết nối xử lý CSDL\Buoi5\Buoi5\obj\Debug\Buoi5.csproj.AssemblyReference.cache
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Labs\Lab4 (Hoàn thành ít nhất 2 bài)- Bài tập kết nối xử lý CSDL\Buoi5\Buoi5\obj\Debug\Buoi5.csproj.SuggestedBindingRedirects.cache
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Labs\Lab4 (Hoàn thành ít nhất 2 bài)- Bài tập kết nối xử lý CSDL\Buoi5\Buoi5\obj\Debug\Buoi5.Form1.resources
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Labs\Lab4 (Hoàn thành ít nhất 2 bài)- Bài tập kết nối xử lý CSDL\Buoi5\Buoi5\obj\Debug\Buoi5.Properties.Resources.resources
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Labs\Lab4 (Hoàn thành ít nhất 2 bài)- Bài tập kết nối xử lý CSDL\Buoi5\Buoi5\obj\Debug\Buoi5.csproj.GenerateResource.cache
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Labs\Lab4 (Hoàn thành ít nhất 2 bài)- Bài tập kết nối xử lý CSDL\Buoi5\Buoi5\obj\Debug\Buoi5.csproj.CoreCompileInputs.cache
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Labs\Lab4 (Hoàn thành ít nhất 2 bài)- Bài tập kết nối xử lý CSDL\Buoi5\Buoi5\obj\Debug\Buoi5.exe
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Labs\Lab4 (Hoàn thành ít nhất 2 bài)- Bài tập kết nối xử lý CSDL\Buoi5\Buoi5\obj\Debug\Buoi5.pdb
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Labs\Lab4 (Hoàn thành ít nhất 2 bài)- Bài tập kết nối xử lý CSDL\Buoi5\Buoi5\obj\Debug\Buoi5.frmKhoa.resources
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Labs\Lab4 (Hoàn thành ít nhất 2 bài)- Bài tập kết nối xử lý CSDL\Buoi5\Buoi5\obj\Debug\Buoi5.frmSinhVien.resources
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Labs\Lab4 (Hoàn thành ít nhất 2 bài)- Bài tập kết nối xử lý CSDL\Buoi5\Buoi5\obj\Debug\Buoi5.frmSuaSinhVien.resources
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Labs\Lab4 (Hoàn thành ít nhất 2 bài)- Bài tập kết nối xử lý CSDL\Buoi5\Buoi5\obj\Debug\Buoi5.frmThemSinhVien.resources
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Labs\Lab4 (Hoàn thành ít nhất 2 bài)- Bài tập kết nối xử lý CSDL\Buoi5-Một số xử lý BT7\Buoi5\obj\Debug\Buoi5.csproj.AssemblyReference.cache
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Labs\Lab4 (Hoàn thành ít nhất 2 bài)- Bài tập kết nối xử lý CSDL\Buoi5-Một số xử lý BT7\Buoi5\obj\Debug\Buoi5.csproj.SuggestedBindingRedirects.cache
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Labs\Lab4 (Hoàn thành ít nhất 2 bài)- Bài tập kết nối xử lý CSDL\Buoi5-Một số xử lý BT7\Buoi5\obj\Debug\Buoi5.Form1.resources
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Labs\Lab4 (Hoàn thành ít nhất 2 bài)- Bài tập kết nối xử lý CSDL\Buoi5-Một số xử lý BT7\Buoi5\obj\Debug\Buoi5.frmKhoa.resources
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Labs\Lab4 (Hoàn thành ít nhất 2 bài)- Bài tập kết nối xử lý CSDL\Buoi5-Một số xử lý BT7\Buoi5\obj\Debug\Buoi5.frmSinhVien.resources
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Labs\Lab4 (Hoàn thành ít nhất 2 bài)- Bài tập kết nối xử lý CSDL\Buoi5-Một số xử lý BT7\Buoi5\obj\Debug\Buoi5.frmThemSinhVien.resources
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Labs\Lab4 (Hoàn thành ít nhất 2 bài)- Bài tập kết nối xử lý CSDL\Buoi5-Một số xử lý BT7\Buoi5\obj\Debug\Buoi5.csproj.GenerateResource.cache
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Labs\Lab4 (Hoàn thành ít nhất 2 bài)- Bài tập kết nối xử lý CSDL\Buoi5-Một số xử lý BT7\Buoi5\obj\Debug\Buoi5.exe
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Labs\Lab4 (Hoàn thành ít nhất 2 bài)- Bài tập kết nối xử lý CSDL\Buoi5-Một số xử lý BT7\Buoi5\obj\Debug\Buoi5.pdb
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Labs\Lab4 (Hoàn thành ít nhất 2 bài)- Bài tập kết nối xử lý CSDL\Buoi5-Một số xử lý BT7\Buoi5\bin\Debug\Buoi5.exe.config
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Labs\Lab4 (Hoàn thành ít nhất 2 bài)- Bài tập kết nối xử lý CSDL\Buoi5-Một số xử lý BT7\Buoi5\bin\Debug\Buoi5.exe
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Labs\Lab4 (Hoàn thành ít nhất 2 bài)- Bài tập kết nối xử lý CSDL\Buoi5-Một số xử lý BT7\Buoi5\bin\Debug\Buoi5.pdb
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Labs\Lab4 (Hoàn thành ít nhất 2 bài)- Bài tập kết nối xử lý CSDL\Buoi5-Một số xử lý BT7\Buoi5\obj\Debug\Buoi5.Properties.Resources.resources
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Labs\Lab4 (Hoàn thành ít nhất 2 bài)- Bài tập kết nối xử lý CSDL\Buoi5-Một số xử lý BT7\Buoi5\obj\Debug\Buoi5.csproj.CoreCompileInputs.cache
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-Một số xử lý BT7-21-06-2024\Buoi5\bin\Debug\Buoi5.exe.config
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-Một số xử lý BT7-21-06-2024\Buoi5\bin\Debug\Buoi5.exe
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-Một số xử lý BT7-21-06-2024\Buoi5\bin\Debug\Buoi5.pdb
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-Một số xử lý BT7-21-06-2024\Buoi5\obj\Debug\Buoi5.csproj.AssemblyReference.cache
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-Một số xử lý BT7-21-06-2024\Buoi5\obj\Debug\Buoi5.csproj.SuggestedBindingRedirects.cache
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-Một số xử lý BT7-21-06-2024\Buoi5\obj\Debug\Buoi5.Form1.resources
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-Một số xử lý BT7-21-06-2024\Buoi5\obj\Debug\Buoi5.frmKhoa.resources
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-Một số xử lý BT7-21-06-2024\Buoi5\obj\Debug\Buoi5.frmSinhVien.resources
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-Một số xử lý BT7-21-06-2024\Buoi5\obj\Debug\Buoi5.frmThemSinhVien.resources
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-Một số xử lý BT7-21-06-2024\Buoi5\obj\Debug\Buoi5.Properties.Resources.resources
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-Một số xử lý BT7-21-06-2024\Buoi5\obj\Debug\Buoi5.csproj.GenerateResource.cache
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-Một số xử lý BT7-21-06-2024\Buoi5\obj\Debug\Buoi5.csproj.CoreCompileInputs.cache
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-Một số xử lý BT7-21-06-2024\Buoi5\obj\Debug\Buoi5.exe
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-Một số xử lý BT7-21-06-2024\Buoi5\obj\Debug\Buoi5.pdb
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-Một số xử lý BT7-21-06-2024\Buoi5\bin\Debug\System.Data.SqlClient.dll
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-Một số xử lý BT7-21-06-2024\Buoi5\bin\Debug\System.Data.SqlClient.xml
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-Một số xử lý BT7-21-06-2024\Buoi5\obj\Debug\Buoi5.csproj.CopyComplete
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-Một số xử lý BT7-21-06-2024\Buoi5\bin\Debug\System.Security.AccessControl.dll
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-Một số xử lý BT7-21-06-2024\Buoi5\bin\Debug\System.Security.Permissions.dll
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-Một số xử lý BT7-21-06-2024\Buoi5\bin\Debug\System.Security.Principal.Windows.dll
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-Một số xử lý BT7-21-06-2024\Buoi5\bin\Debug\System.Security.AccessControl.xml
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-Một số xử lý BT7-21-06-2024\Buoi5\bin\Debug\System.Security.Permissions.xml
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-Một số xử lý BT7-21-06-2024\Buoi5\bin\Debug\System.Security.Principal.Windows.xml
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-Một số xử lý BT7-21-06-2024\Buoi5\bin\Debug\EntityFramework.dll
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-Một số xử lý BT7-21-06-2024\Buoi5\bin\Debug\EntityFramework.SqlServer.dll
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-Một số xử lý BT7-21-06-2024\Buoi5\bin\Debug\EntityFramework.xml
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-Một số xử lý BT7-21-06-2024\Buoi5\bin\Debug\EntityFramework.SqlServer.xml
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-6-Một số xử lý BT7-21+28-06-2024\Buoi5\bin\Debug\Buoi5.exe.config
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-6-Một số xử lý BT7-21+28-06-2024\Buoi5\bin\Debug\Buoi5.exe
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-6-Một số xử lý BT7-21+28-06-2024\Buoi5\bin\Debug\Buoi5.pdb
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-6-Một số xử lý BT7-21+28-06-2024\Buoi5\bin\Debug\EntityFramework.dll
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-6-Một số xử lý BT7-21+28-06-2024\Buoi5\bin\Debug\EntityFramework.SqlServer.dll
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-6-Một số xử lý BT7-21+28-06-2024\Buoi5\bin\Debug\System.Data.SqlClient.dll
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-6-Một số xử lý BT7-21+28-06-2024\Buoi5\bin\Debug\System.Security.AccessControl.dll
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-6-Một số xử lý BT7-21+28-06-2024\Buoi5\bin\Debug\System.Security.Permissions.dll
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-6-Một số xử lý BT7-21+28-06-2024\Buoi5\bin\Debug\System.Security.Principal.Windows.dll
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-6-Một số xử lý BT7-21+28-06-2024\Buoi5\bin\Debug\EntityFramework.xml
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-6-Một số xử lý BT7-21+28-06-2024\Buoi5\bin\Debug\EntityFramework.SqlServer.xml
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-6-Một số xử lý BT7-21+28-06-2024\Buoi5\bin\Debug\System.Data.SqlClient.xml
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-6-Một số xử lý BT7-21+28-06-2024\Buoi5\bin\Debug\System.Security.AccessControl.xml
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-6-Một số xử lý BT7-21+28-06-2024\Buoi5\bin\Debug\System.Security.Permissions.xml
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-6-Một số xử lý BT7-21+28-06-2024\Buoi5\bin\Debug\System.Security.Principal.Windows.xml
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-6-Một số xử lý BT7-21+28-06-2024\Buoi5\obj\Debug\Buoi5.csproj.AssemblyReference.cache
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-6-Một số xử lý BT7-21+28-06-2024\Buoi5\obj\Debug\Buoi5.csproj.SuggestedBindingRedirects.cache
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-6-Một số xử lý BT7-21+28-06-2024\Buoi5\obj\Debug\Buoi5.Form1.resources
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-6-Một số xử lý BT7-21+28-06-2024\Buoi5\obj\Debug\Buoi5.frmKhoa.resources
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-6-Một số xử lý BT7-21+28-06-2024\Buoi5\obj\Debug\Buoi5.frmSinhVien.resources
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-6-Một số xử lý BT7-21+28-06-2024\Buoi5\obj\Debug\Buoi5.frmThemSinhVien.resources
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-6-Một số xử lý BT7-21+28-06-2024\Buoi5\obj\Debug\Buoi5.Properties.Resources.resources
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-6-Một số xử lý BT7-21+28-06-2024\Buoi5\obj\Debug\Buoi5.csproj.GenerateResource.cache
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-6-Một số xử lý BT7-21+28-06-2024\Buoi5\obj\Debug\Buoi5.csproj.CoreCompileInputs.cache
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-6-Một số xử lý BT7-21+28-06-2024\Buoi5\obj\Debug\Buoi5.csproj.CopyComplete
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-6-Một số xử lý BT7-21+28-06-2024\Buoi5\obj\Debug\Buoi5.exe
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-6-Một số xử lý BT7-21+28-06-2024\Buoi5\obj\Debug\Buoi5.pdb
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\Buoi5-6-Một số xử lý BT7-21+28-06-2024\Buoi5\obj\Debug\Buoi5.frmSuaSinhVien.resources
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\Buoi5\bin\Debug\Buoi5.exe.config
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\Buoi5\bin\Debug\Buoi5.exe
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\Buoi5\bin\Debug\Buoi5.pdb
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\Buoi5\bin\Debug\EntityFramework.dll
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\Buoi5\bin\Debug\EntityFramework.SqlServer.dll
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\Buoi5\bin\Debug\System.Data.SqlClient.dll
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\Buoi5\bin\Debug\System.Security.AccessControl.dll
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\Buoi5\bin\Debug\System.Security.Permissions.dll
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\Buoi5\bin\Debug\System.Security.Principal.Windows.dll
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\Buoi5\bin\Debug\EntityFramework.xml
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\Buoi5\bin\Debug\EntityFramework.SqlServer.xml
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\Buoi5\bin\Debug\System.Data.SqlClient.xml
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\Buoi5\bin\Debug\System.Security.AccessControl.xml
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\Buoi5\bin\Debug\System.Security.Permissions.xml
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\Buoi5\bin\Debug\System.Security.Principal.Windows.xml
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\Buoi5\obj\Debug\Buoi5.csproj.AssemblyReference.cache
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\Buoi5\obj\Debug\Buoi5.csproj.SuggestedBindingRedirects.cache
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\Buoi5\obj\Debug\Buoi5.Form1.resources
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\Buoi5\obj\Debug\Buoi5.frmKhoa.resources
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\Buoi5\obj\Debug\Buoi5.frmSinhVien.resources
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\Buoi5\obj\Debug\Buoi5.frmSuaSinhVien.resources
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\Buoi5\obj\Debug\Buoi5.frmThemSinhVien.resources
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\Buoi5\obj\Debug\Buoi5.Properties.Resources.resources
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\Buoi5\obj\Debug\Buoi5.csproj.GenerateResource.cache
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\Buoi5\obj\Debug\Buoi5.csproj.CoreCompileInputs.cache
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\Buoi5\obj\Debug\Buoi5.csproj.CopyComplete
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\Buoi5\obj\Debug\Buoi5.exe
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\Buoi5\obj\Debug\Buoi5.pdb
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\Buoi5\obj\Debug\Buoi5.Bai7Lab4.frmMonHoc.resources
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\Buoi5\obj\Debug\Buoi5.Bai7Lab4.frmNhapDiem.resources
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\Buoi5\obj\Debug\Buoi5.Bai7Lab4.frmXemDiem.resources
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\Buoi5\obj\Debug\Buoi5.Bai8Lab4.frmNhanVien.resources
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\Buoi5\obj\Debug\Buoi5.Bai8Lab4.DocGia.resources
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\Buoi5\obj\Debug\Buoi5.Bai7Lab4.frmThongKe.resources

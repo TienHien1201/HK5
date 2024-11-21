@@ -1,0 +1,15 @@
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\Lab1BaiTap2\bin\Debug\net7.0\Lab1BaiTap2.exe
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\Lab1BaiTap2\bin\Debug\net7.0\Lab1BaiTap2.deps.json
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\Lab1BaiTap2\bin\Debug\net7.0\Lab1BaiTap2.runtimeconfig.json
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\Lab1BaiTap2\bin\Debug\net7.0\Lab1BaiTap2.dll
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\Lab1BaiTap2\bin\Debug\net7.0\Lab1BaiTap2.pdb
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\Lab1BaiTap2\obj\Debug\net7.0\Lab1BaiTap2.csproj.AssemblyReference.cache
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\Lab1BaiTap2\obj\Debug\net7.0\Lab1BaiTap2.GeneratedMSBuildEditorConfig.editorconfig
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\Lab1BaiTap2\obj\Debug\net7.0\Lab1BaiTap2.AssemblyInfoInputs.cache
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\Lab1BaiTap2\obj\Debug\net7.0\Lab1BaiTap2.AssemblyInfo.cs
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\Lab1BaiTap2\obj\Debug\net7.0\Lab1BaiTap2.csproj.CoreCompileInputs.cache
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\Lab1BaiTap2\obj\Debug\net7.0\Lab1BaiTap2.dll
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\Lab1BaiTap2\obj\Debug\net7.0\refint\Lab1BaiTap2.dll
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\Lab1BaiTap2\obj\Debug\net7.0\Lab1BaiTap2.pdb
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\Lab1BaiTap2\obj\Debug\net7.0\Lab1BaiTap2.genruntimeconfig.cache
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\Lab1BaiTap2\obj\Debug\net7.0\ref\Lab1BaiTap2.dll

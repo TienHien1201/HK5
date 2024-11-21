@@ -1,0 +1,18 @@
+package TransactionApp.Domain;
+
+import java.util.List;
+
+import TransactionApp.domain.model.Transaction;
+
+public interface TransactionService {
+    
+    public void themGiaoDich(Transaction transaction);
+    public void xoaGiaoDich(int maGiaoDich);
+    public void suaGiaoDich(Transaction transaction);
+    public List<Transaction> timKiemGiaoDich(int maGiaoDich);
+    public double tinhTBTTGDD();
+    public int tinhTongSLTungLoai();
+    public List<Transaction> xuatGiaoDichTheoThang(String month);
+    
+} 
+    

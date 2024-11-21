@@ -1,0 +1,90 @@
+D:\Teaching\GDU\14113013 - Lập trình trực quan\DoAnMau\DoAnMau\DoAnMau\bin\Debug\DoAnMau.exe.config
+D:\Teaching\GDU\14113013 - Lập trình trực quan\DoAnMau\DoAnMau\DoAnMau\bin\Debug\DoAnMau.exe
+D:\Teaching\GDU\14113013 - Lập trình trực quan\DoAnMau\DoAnMau\DoAnMau\bin\Debug\DoAnMau.pdb
+D:\Teaching\GDU\14113013 - Lập trình trực quan\DoAnMau\DoAnMau\DoAnMau\obj\Debug\DoAnMau.csproj.AssemblyReference.cache
+D:\Teaching\GDU\14113013 - Lập trình trực quan\DoAnMau\DoAnMau\DoAnMau\obj\Debug\DoAnMau.csproj.SuggestedBindingRedirects.cache
+D:\Teaching\GDU\14113013 - Lập trình trực quan\DoAnMau\DoAnMau\DoAnMau\obj\Debug\DoAnMau.Properties.Resources.resources
+D:\Teaching\GDU\14113013 - Lập trình trực quan\DoAnMau\DoAnMau\DoAnMau\obj\Debug\DoAnMau.csproj.GenerateResource.cache
+D:\Teaching\GDU\14113013 - Lập trình trực quan\DoAnMau\DoAnMau\DoAnMau\obj\Debug\DoAnMau.csproj.CoreCompileInputs.cache
+D:\Teaching\GDU\14113013 - Lập trình trực quan\DoAnMau\DoAnMau\DoAnMau\obj\Debug\DoAnMau.exe
+D:\Teaching\GDU\14113013 - Lập trình trực quan\DoAnMau\DoAnMau\DoAnMau\obj\Debug\DoAnMau.pdb
+D:\Teaching\GDU\14113013 - Lập trình trực quan\DoAnMau\DoAnMau\DoAnMau\obj\Debug\DoAnMau.frmChuShop.resources
+D:\Teaching\GDU\14113013 - Lập trình trực quan\DoAnMau\DoAnMau\DoAnMau\obj\Debug\DoAnMau.frmDangNhap.resources
+D:\Teaching\GDU\14113013 - Lập trình trực quan\DoAnMau\DoAnMau\DoAnMau\obj\Debug\DoAnMau.frmNhanVien.resources
+D:\Teaching\GDU\14113013 - Lập trình trực quan\DoAnMau\DoAnMau\DoAnMau\obj\Debug\DoAnMau.ChuShop.frmDanhMucMatHang.resources
+D:\Teaching\GDU\14113013 - Lập trình trực quan\DoAnMau\DoAnMau\DoAnMau\obj\Debug\DoAnMau.frmDoiMatKhau.resources
+D:\Teaching\GDU\14113013 - Lập trình trực quan\DoAnMau\DoAnMau\DoAnMau\obj\Debug\DoAnMau.ChuShop.frmThemMatHang.resources
+D:\Teaching\GDU\14113013 - Lập trình trực quan\DoAnMau\DoAnMau\DoAnMau\obj\Debug\DoAnMau.ChuShop.frmSuaMatHang.resources
+D:\Teaching\GDU\14113013 - Lập trình trực quan\DoAnMau\DoAnMau\DoAnMau\obj\Debug\DoAnMau.ChuShop.frmThongKeDoanhThu.resources
+D:\Teaching\GDU\14113013 - Lập trình trực quan\DoAnMau\DoAnMau\DoAnMau\obj\Debug\DoAnMau.frmQuenMatKhau.resources
+D:\Teaching\GDU\14113013 - Lập trình trực quan\DoAnMau\DoAnMau\DoAnMau\obj\Debug\DoAnMau.NhanVien.frmBanHang.resources
+D:\Teaching\GDU\14113013 - Lập trình trực quan\DoAnMau\DoAnMau\DoAnMau\obj\Debug\DoAnMau.NhanVien.frmDanhMucMatHang.resources
+D:\Teaching\GDU\14113013 - Lập trình trực quan\DoAnMau\DoAnMau\DoAnMau\obj\Debug\DoAnMau.NhanVien.frmThongKeDoanhThuCaNhan.resources
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\DoAnMau\DoAnMau\bin\Debug\DoAnMau.exe.config
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\DoAnMau\DoAnMau\bin\Debug\DoAnMau.exe
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\DoAnMau\DoAnMau\bin\Debug\DoAnMau.pdb
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\DoAnMau\DoAnMau\bin\Debug\EntityFramework.dll
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\DoAnMau\DoAnMau\bin\Debug\EntityFramework.SqlServer.dll
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\DoAnMau\DoAnMau\bin\Debug\EntityFramework.xml
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\DoAnMau\DoAnMau\bin\Debug\EntityFramework.SqlServer.xml
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\DoAnMau\DoAnMau\obj\Debug\DoAnMau.csproj.AssemblyReference.cache
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\DoAnMau\DoAnMau\obj\Debug\DoAnMau.csproj.SuggestedBindingRedirects.cache
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\DoAnMau\DoAnMau\obj\Debug\DoAnMau.ChuShop.frmDanhMucMatHang.resources
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\DoAnMau\DoAnMau\obj\Debug\DoAnMau.ChuShop.frmQuanLyTaiKhoan.resources
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\DoAnMau\DoAnMau\obj\Debug\DoAnMau.ChuShop.frmSuaMatHang.resources
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\DoAnMau\DoAnMau\obj\Debug\DoAnMau.ChuShop.frmSuaTaiKhoan.resources
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\DoAnMau\DoAnMau\obj\Debug\DoAnMau.ChuShop.frmThemMatHang.resources
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\DoAnMau\DoAnMau\obj\Debug\DoAnMau.ChuShop.frmThemTaiKhoan.resources
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\DoAnMau\DoAnMau\obj\Debug\DoAnMau.ChuShop.frmThongKeDoanhThu.resources
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\DoAnMau\DoAnMau\obj\Debug\DoAnMau.frmChuShop.resources
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\DoAnMau\DoAnMau\obj\Debug\DoAnMau.frmDangNhap.resources
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\DoAnMau\DoAnMau\obj\Debug\DoAnMau.frmDoiMatKhau.resources
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\DoAnMau\DoAnMau\obj\Debug\DoAnMau.frmNhanVien.resources
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\DoAnMau\DoAnMau\obj\Debug\DoAnMau.frmQuenMatKhau.resources
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\DoAnMau\DoAnMau\obj\Debug\DoAnMau.NhanVien.frmBanHang.resources
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\DoAnMau\DoAnMau\obj\Debug\DoAnMau.NhanVien.frmDanhMucMatHang.resources
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\DoAnMau\DoAnMau\obj\Debug\DoAnMau.NhanVien.frmThongKeDoanhThuCaNhan.resources
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\DoAnMau\DoAnMau\obj\Debug\DoAnMau.NhanVien.frmThongTinCaNhan.resources
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\DoAnMau\DoAnMau\obj\Debug\DoAnMau.Properties.Resources.resources
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\DoAnMau\DoAnMau\obj\Debug\DoAnMau.csproj.GenerateResource.cache
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\DoAnMau\DoAnMau\obj\Debug\DoAnMau.csproj.CoreCompileInputs.cache
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\DoAnMau\DoAnMau\obj\Debug\DoAnMau.csproj.CopyComplete
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\DoAnMau\DoAnMau\obj\Debug\DoAnMau.exe
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\DoAnMau\DoAnMau\obj\Debug\DoAnMau.pdb
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\DoAnMau\DoAnMau\bin\Debug\EASendMail.dll
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\DoAnMau\DoAnMau\bin\Debug\System.Security.Cryptography.Pkcs.dll
+D:\Teaching\GDU\14113013 - Lập trình trực quan\Demo-S6\DoAnMau\DoAnMau\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\DoAnMau\bin\Debug\DoAnMau.exe.config
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\DoAnMau\bin\Debug\DoAnMau.exe
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\DoAnMau\bin\Debug\DoAnMau.pdb
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\DoAnMau\bin\Debug\EASendMail.dll
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\DoAnMau\bin\Debug\EntityFramework.dll
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\DoAnMau\bin\Debug\EntityFramework.SqlServer.dll
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\DoAnMau\bin\Debug\System.Security.Cryptography.Pkcs.dll
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\DoAnMau\bin\Debug\EntityFramework.xml
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\DoAnMau\bin\Debug\EntityFramework.SqlServer.xml
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\DoAnMau\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\DoAnMau\obj\Debug\DoAnMau.csproj.AssemblyReference.cache
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\DoAnMau\obj\Debug\DoAnMau.csproj.SuggestedBindingRedirects.cache
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\DoAnMau\obj\Debug\DoAnMau.ChuShop.frmDanhMucMatHang.resources
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\DoAnMau\obj\Debug\DoAnMau.ChuShop.frmQuanLyTaiKhoan.resources
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\DoAnMau\obj\Debug\DoAnMau.ChuShop.frmSuaMatHang.resources
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\DoAnMau\obj\Debug\DoAnMau.ChuShop.frmSuaTaiKhoan.resources
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\DoAnMau\obj\Debug\DoAnMau.ChuShop.frmThemMatHang.resources
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\DoAnMau\obj\Debug\DoAnMau.ChuShop.frmThemTaiKhoan.resources
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\DoAnMau\obj\Debug\DoAnMau.ChuShop.frmThongKeDoanhThu.resources
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\DoAnMau\obj\Debug\DoAnMau.frmChuShop.resources
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\DoAnMau\obj\Debug\DoAnMau.frmDangNhap.resources
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\DoAnMau\obj\Debug\DoAnMau.frmDoiMatKhau.resources
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\DoAnMau\obj\Debug\DoAnMau.frmNhanVien.resources
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\DoAnMau\obj\Debug\DoAnMau.frmQuenMatKhau.resources
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\DoAnMau\obj\Debug\DoAnMau.NhanVien.frmBanHang.resources
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\DoAnMau\obj\Debug\DoAnMau.NhanVien.frmDanhMucMatHang.resources
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\DoAnMau\obj\Debug\DoAnMau.NhanVien.frmThongKeDoanhThuCaNhan.resources
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\DoAnMau\obj\Debug\DoAnMau.NhanVien.frmThongTinCaNhan.resources
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\DoAnMau\obj\Debug\DoAnMau.Properties.Resources.resources
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\DoAnMau\obj\Debug\DoAnMau.csproj.GenerateResource.cache
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\DoAnMau\obj\Debug\DoAnMau.csproj.CoreCompileInputs.cache
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\DoAnMau\obj\Debug\DoAnMau.csproj.CopyComplete
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\DoAnMau\obj\Debug\DoAnMau.exe
+D:\BaiHoc\HK5\LapTrinhTrucQuan\lab\DoAnMau\obj\Debug\DoAnMau.pdb

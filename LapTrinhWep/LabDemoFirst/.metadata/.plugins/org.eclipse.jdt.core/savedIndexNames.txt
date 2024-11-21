@@ -1,0 +1,6 @@
+INDEX VERSION 1.132+D:\BaiHoc\HK5\LapTrinhWep\LabDemoFirst\.metadata\.plugins\org.eclipse.jdt.core
+679354014.index
+873261703.index
+170544749.index
+2442689168.index
+1865797976.index

@@ -1,0 +1,3 @@
+nguyễn văn a - 1200000
+nguyễn văn b - 1300000
+nguyễn văn c - 260000
